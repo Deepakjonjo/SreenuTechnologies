@@ -2,7 +2,7 @@ package palindrome.string;
 
 import java.util.Scanner;
 
-public class PalindromString12345 {
+public class PalindromString12345678 {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
