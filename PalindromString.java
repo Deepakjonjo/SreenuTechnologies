@@ -15,7 +15,7 @@ public class PalindromString {
 			reverseStr = reverseStr + str.charAt(i);
 		}
 
-		if (str.equals(reverseStr)) {
+		if (str.equals(reverseStra)) {
 			System.out.println("String is palindrome");
 		} else {
 			System.out.println("String is not palindrome hihui");
