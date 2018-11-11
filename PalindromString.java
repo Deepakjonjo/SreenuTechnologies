@@ -2,7 +2,7 @@ package palindrome.string;
 
 import java.util.Scanner;
 
-public class PalindromString {
+public class PalindromString123 {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
