@@ -6,7 +6,7 @@ public class PalindromString12345678 {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter string :HAAHAHAHAH ");
+		System.out.print("Enter string : ");
 
 		String str = scanner.nextLine();
 		String reverseStr = "";
